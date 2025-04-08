@@ -1,8 +1,8 @@
 <!-- Banner (replace with your own banner image if available) -->
 
 <div align="center">
-  <img src="img/1567852229185.jpeg" alt="Kwan96 Profile Image" height="150" style="border-radius:50px 0px 0px 50px;" />
-  <img src="img/image.png" alt="Kwan96 Profile Image" height="150" style="border-radius:0px 50px 50px 0px;" />
+  <img src="https://github.com/kwanLeeFrmVi/kwanLeeFrmVi/blob/main/img/1567852229185.jpeg?raw=true" alt="Kwan96 Profile Image" height="150" style="border-radius:50px 0px 0px 50px;" />
+  <img src="https://github.com/kwanLeeFrmVi/kwanLeeFrmVi/blob/main/img/image.png?raw=true" alt="Kwan96 Profile Image" height="150" style="border-radius:0px 50px 50px 0px;" />
  
 </div>
 
