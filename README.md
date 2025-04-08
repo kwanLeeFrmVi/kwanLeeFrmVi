@@ -46,43 +46,17 @@ I'm a passionate developer and tech leader dedicated to turning innovative ideas
 
 ---
 
-## 🌟 Top Projects
-
-- **[kwanLeeFrmVi](https://github.com/kwanLeeFrmVi/kwanLeeFrmVi)**  
-  A central repository for a variety of coding projects and experiments.
-
-- **[Crawler4AI-to-mardown-files](https://github.com/kwanLeeFrmVi/Crawler4AI-to-mardown-files)**  
-  Converts AI crawler data into well-structured Markdown files for seamless documentation.
-
-- **[mcp-rag-server](https://github.com/kwanLeeFrmVi/mcp-rag-server)**  
-  A powerful backend server for Retrieval-Augmented Generation (RAG), enabling smarter context retrieval for LLMs.
-
-- **[awesome-mcp-servers](https://github.com/kwanLeeFrmVi/awesome-mcp-servers)**  
-  A curated collection of MCP servers to spark innovation in context-aware systems.
-
-- **[demo-canvas-video-player](https://github.com/kwanLeeFrmVi/demo-canvas-video-player)**  
-  A sleek, efficient video player built with HTML canvas and TypeScript.
-
-- **[mcp-git](https://github.com/kwanLeeFrmVi/mcp-git)**  
-  A Git-powered context enhancer for LLM workflows, deriving insights from commit histories.
-
-- **[mcp-server-memory](https://github.com/kwanLeeFrmVi/mcp-server-memory)**  
-  A module designed to persist and recall conversational context within AI applications.
-
----
-
-## 🎓 Education
-
-**FPT University**  
-_Bachelor's Degree in Computer Software Engineering (2015 – 2019)_
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/quanle96/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:quanle@williamapp.io">
+    <img src="https://img.shields.io/badge/Email-quanle@williamapp.io-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email quanle@williamapp.io"/>
+  </a>
+  <a href="mailto:quanle96@outlook.com">
+    <img src="https://img.shields.io/badge/Email-quanle96@outlook.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email quanle96@outlook.com"/>
   </a>
 </div>
 
