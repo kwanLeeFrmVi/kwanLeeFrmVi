@@ -23,7 +23,10 @@ I'm a passionate developer and tech leader dedicated to turning innovative ideas
 ## 🔧 Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,docker,graphql,flask,fastapi,nodejs,react,vue,aws,mongodb,postgres,git&perline=8" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,react,tailwind,nodejs,graphql,py&perline=8" alt="Skill Icons" />
+   <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,vercel&perline=8" alt="Skill Icons" />
+   <img src="https://skillicons.dev/icons?i=nginx,debian,ubuntu&perline=8" alt="Skill Icons" />
+   <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,git,obsidian&perline=8" alt="Skill Icons" />
 </div>
 
 ---
