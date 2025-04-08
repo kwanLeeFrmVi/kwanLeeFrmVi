@@ -1,0 +1,28 @@
+<svg fill="none" viewBox="0 0 400 150" width="400" height="150" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.img-container {
+				width: 100%; /* Use container width */
+				height: 150px; /* Match original height */
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				border-radius: 50px 0px 0px 50px; /* Apply original border-radius */
+				overflow: hidden; /* Ensure border-radius clips the image */
+				}
+				img {
+				max-width: none; /* Allow image to potentially exceed container if needed for object-fit */
+				max-height: 100%;
+				height: 100%; /* Ensure image fills height */
+				width: auto; /* Maintain aspect ratio */
+				object-fit: cover; /* Cover the container, might crop */
+				display: block; /* Remove extra space below image */
+				}
+			</style>
+			<div class="img-container">
+				<img src="https://github.com/kwanLeeFrmVi/kwanLeeFrmVi/blob/main/img/1567852229185.jpeg?raw=true" alt="Image 1" />
+			</div>
+		</div>
+	</foreignObject>
+</svg>
