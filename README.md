@@ -32,7 +32,7 @@ I'm a passionate developer and tech leader dedicated to turning innovative ideas
 
 <div align="center">
   <!-- GitHub Readme Stats -->
-  <img src="https://my-private-github-readme-stats.vercel.app/api?username=kwanLeeFrmVi&show_icons=true&theme=radical" alt="Kwan96's GitHub Stats" />
+  <img src="https://my-private-github-readme-stats.vercel.app/api?username=kwanLeeFrmVi&show_icons=true&theme=noctis_minimus" alt="Kwan96's GitHub Stats" />
 </div>
 
 ---
@@ -41,7 +41,7 @@ I'm a passionate developer and tech leader dedicated to turning innovative ideas
 
 <div align="center">
   <!-- Chart Language Card -->
-  <img src="https://my-private-github-readme-stats.vercel.app/api/top-langs/?username=kwanLeeFrmVi&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://my-private-github-readme-stats.vercel.app/api/top-langs/?username=kwanLeeFrmVi&layout=compact&theme=noctis_minimus" alt="Top Languages" />
 </div>
 
 ---
