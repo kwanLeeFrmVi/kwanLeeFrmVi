@@ -41,7 +41,7 @@ I'm a passionate developer and tech leader dedicated to turning innovative ideas
 
 <div align="center">
   <!-- Chart Language Card -->
-  <img src="https://my-private-github-readme-stats.vercel.app//api/top-langs/?username=kwanLeeFrmVi&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://my-private-github-readme-stats.vercel.app/api/top-langs/?username=kwanLeeFrmVi&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---
