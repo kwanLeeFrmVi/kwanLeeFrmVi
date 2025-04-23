@@ -6,7 +6,8 @@
  
 </div>
 
-# Hi, I'm Kwan96 (Quân Lê Minh) 👋
+# Hi, I'm [Kwan96 (Quân Lê Minh)](https://kwanlee.vercel.app) 👋
+https://kwanlee.vercel.app
 
 I'm a passionate developer and tech leader dedicated to turning innovative ideas into reality. Whether it's building scalable fintech solutions or crafting smart embedded systems, I love leveraging cutting-edge technologies to create meaningful impact.
 
